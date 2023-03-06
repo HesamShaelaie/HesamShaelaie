@@ -1,12 +1,12 @@
-# Hi there 👋, I am Hesam.
+# Hi there 👋, I am Hesam!
 
 
+I am a Ph.D. candidate in Industrial and System Engineering at Lehigh University. I am interested in discrete optimization and Machine Learning. Currently, I am working to find a middle ground between Branch & Bound and Reinforcement Learning. Also, I am working on another interesting project which tries to varify the actions and behavior of Graph Nural Network through optimization.
 
-![Hesam stats](https://github-readme-stats.vercel.app/api?username=hesamshaelaie&show_icons=true&theme=transparent)
 
 <!--
 **HesamShaelaie/HesamShaelaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Hesam stats](https://github-readme-stats.vercel.app/api?username=hesamshaelaie&show_icons=true&theme=transparent)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
