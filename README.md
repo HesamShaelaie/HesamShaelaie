@@ -1,7 +1,7 @@
 # Hi there 👋, I am Hesam!
 
+I am a Ph.D. candidate in Industrial and System Engineering at Lehigh University. I am interested in discrete optimization and Machine Learning. Currently, I am working on the intersection of Branch & Bound and Reinforcement Learning. Also, I am working on another interesting project which tries to verify the actions and behavior of Graph Nural Network through optimization.
 
-I am a Ph.D. candidate in Industrial and System Engineering at Lehigh University. I am interested in discrete optimization and Machine Learning. Currently, I am working to find a middle ground between Branch & Bound and Reinforcement Learning. Also, I am working on another interesting project which tries to varify the actions and behavior of Graph Nural Network through optimization.
 
 
 <!--
