@@ -2,7 +2,9 @@
 
 I am a Ph.D. candidate in Industrial and System Engineering at Lehigh University. I am interested in discrete optimization and Machine Learning techniques. Currently, I am working on the intersection of Branch & Bound and Reinforcement Learning. Also, I am working on another interesting project which tries to verify the actions and behavior of a Graph Neural Network through optimization.
 
+## Profile Visits 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
 <!--
 **HesamShaelaie/HesamShaelaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
