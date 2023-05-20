@@ -3,7 +3,7 @@
 I am a Ph.D. candidate in Industrial and System Engineering at Lehigh University. I am interested in discrete optimization and Machine Learning techniques. Currently, I am working on the intersection of Branch & Bound and Reinforcement Learning. Also, I am working on another interesting project which tries to verify the actions and behavior of a Graph Neural Network through optimization. If you want to know more about my work, please check out my [page](https://hesamshaelaie.github.io/).
 
 <div align="center">
-<img alt="Unified Framework on an example" src="https://github.com/HesamShaelaie/HesamShaelaie.github.io/blob/main/images/USNinU2M-v2.tiff"  width="600" > </img>
+<img alt="Unified Framework on an example" src="https://github.com/HesamShaelaie/HesamShaelaie.github.io/blob/main/images/USNinU2M-v3.png"  width="600" > </img>
 
 <!--
 **HesamShaelaie/HesamShaelaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
